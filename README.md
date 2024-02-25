@@ -24,7 +24,7 @@ User Search Functionality: Users can perform searches using alternative username
 /*Navigation: */The UI is crafted for easy navigation, allowing users to effortlessly explore features and engage with the community
 
 /*Visual Appeal:*/ A visually appealing design enhances user engagement and creates an enjoyable browsing experience.
-# Platform used:front-end:React,node,mysql
+# Framework used:front-end:React
 
 
 
