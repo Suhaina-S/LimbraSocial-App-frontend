@@ -32,6 +32,9 @@ User Search Functionality: Users can perform searches using alternative username
 * scroll bar
 * dark and light theme
 * requirements changes according to the users
+* security
+* updated features
+* 
 # Framework used:front-end:React
 
 
