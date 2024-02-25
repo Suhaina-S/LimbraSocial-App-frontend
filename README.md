@@ -24,6 +24,14 @@ User Search Functionality: Users can perform searches using alternative username
 /*Navigation: */The UI is crafted for easy navigation, allowing users to effortlessly explore features and engage with the community
 
 /*Visual Appeal:*/ A visually appealing design enhances user engagement and creates an enjoyable browsing experience.
+# Features
+* reactive response page
+* navigation
+* animation
+* transition
+* scroll bar
+* dark and light theme
+* requirements changes according to the users
 # Framework used:front-end:React
 
 
