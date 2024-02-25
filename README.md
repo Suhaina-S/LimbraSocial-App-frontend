@@ -1,6 +1,6 @@
-# link for the project deployed link: https://limbrasocial-app.netlify.app/
+# deployed link: https://limbrasocial-app.netlify.app/
 -- Limbra Social App:-- Connecting People, Sharing Moments
-# description
+# Description
 # User Registration and Authentication:
 
 /*Secure Registration:*/ Users can register for a Limbra Social account securely, providing a unique username and password.
