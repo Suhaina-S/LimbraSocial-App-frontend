@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# link for the project deployed link: https://limbrasocial-app.netlify.app/
+-- Limbra Social App:-- Connecting People, Sharing Moments
+# description
+# User Registration and Authentication:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+/*Secure Registration:*/ Users can register for a Limbra Social account securely, providing a unique username and password.
+Authentication: Log in with the registered credentials, ensuring a safe and personalized user experience.
+Google OAuth: For added convenience, users can also log in using their Google accounts.
+#  View and Add Posts:
+Public Post Feed: Users can explore and view all public posts shared by the Limbra community.
+User-generated Posts: Individuals can create and share their posts, contributing to the vibrant community experience.
+# View and Update Profile:
 
-## Available Scripts
+/*Profile Customization:*/ Users have the flexibility to personalize their profiles with information and media.
+Edit Profile: The app allows users to easily update and edit their profile information, ensuring it stays current and relevant.
+# Search Users:
+User Search Functionality: Users can perform searches using alternative usernames to find and connect with friends or interesting profiles.
+# User Experience:
+/*Intuitive UI Design: */Limbra Social features an intuitive and user-friendly interface designed for desktop users.
+/*Responsive Design: */The application ensures a seamless experience across devices, adapting to various screen sizes.
+/*Navigation: */The UI is crafted for easy navigation, allowing users to effortlessly explore features and engage with the community.
+/*Visual Appeal:*/ A visually appealing design enhances user engagement and creates an enjoyable browsing experience.
+# Platform used:front-end:React,node,mysql
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
